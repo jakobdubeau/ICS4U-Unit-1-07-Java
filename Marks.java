@@ -120,7 +120,6 @@ final class Marks {
             }
         }
         catch (IOException errorCode) {
-  1     private Marks() {
             System.err.println(errorCode);
         }
 
